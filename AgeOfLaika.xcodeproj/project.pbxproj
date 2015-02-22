@@ -13,6 +13,7 @@
 		1BECA0D11A99882400F5654B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BECA0D01A99882400F5654B /* Images.xcassets */; };
 		1BECA0D41A99882400F5654B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1BECA0D21A99882400F5654B /* LaunchScreen.xib */; };
 		1BECA0E01A99882400F5654B /* AgeOfLaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BECA0DF1A99882400F5654B /* AgeOfLaikaTests.swift */; };
+		1BECA0EA1A99892F00F5654B /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1BECA0E91A99892F00F5654B /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1BECA0D91A99882400F5654B /* AgeOfLaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeOfLaikaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BECA0DE1A99882400F5654B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1BECA0DF1A99882400F5654B /* AgeOfLaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfLaikaTests.swift; sourceTree = "<group>"; };
+		1BECA0E91A99892F00F5654B /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		1BECA0C71A99882400F5654B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1BECA0E91A99892F00F5654B /* AlbertEinsteinStamp.jpg */,
 				1BECA0C81A99882400F5654B /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BECA0EA1A99892F00F5654B /* AlbertEinsteinStamp.jpg in Resources */,
 				1BECA0CF1A99882400F5654B /* Main.storyboard in Resources */,
 				1BECA0D41A99882400F5654B /* LaunchScreen.xib in Resources */,
 				1BECA0D11A99882400F5654B /* Images.xcassets in Resources */,
